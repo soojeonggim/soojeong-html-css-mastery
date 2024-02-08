@@ -2,4 +2,4 @@
 
 By [SOOJEONG], Intro Coding for Journalists class
 
-This repo is a class assignment to learn git. It is due [FEBRUARY] [2], [2024].
+This repo is a class assignment to learn git. It is due [FEBRUARY] [9], [2024].
