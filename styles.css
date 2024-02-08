@@ -1,0 +1,84 @@
+
+/* Base HTML font */
+html {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 62.5%;
+}
+
+p, ul, ol, dl {
+  font-size: 1.6rem;
+  line-height: 2rem;
+  margin-bottom: 12px;
+}
+
+/* Article styling */
+article {
+  max-width: 620px;
+  margin-right: auto;
+  margin-bottom: 30px;
+  margin-left: auto;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+h1 {
+  font-size: 4rem;
+  line-height: 2rem;
+  margin: 20px 0;
+}
+
+h2 {
+  font-size: 2.5rem;
+  line-height: 2.4rem;
+  margin: 16px 0;
+}
+
+h3 {
+  font-size: 1.75rem;
+  margin: 16px 0;
+}
+
+h4 {
+  font-size: 1.4rem;
+}
+
+/* Styling for byline */
+.byline {
+  font-family: Arial, sans-serif;
+  font-size: 1.4rem;
+  text-align: left;
+}
+
+/* Right-align figcaption and adjust margin */
+figcaption {
+  font-family: Arial, sans-serif;
+  font-size: 1.2rem;
+  margin-top: 2px;
+  text-align: right;
+  margin-bottom: 8px;
+}
+
+/* Italicize date in byline */
+.byline span {
+  font-style: italic;
+}
+
+/* Blockquote styling */
+blockquote {
+  border-left: 4px solid grey;
+  padding-left: 20px;
+  margin-left: 30px;
+}
+
+/* Ordered list style */
+ol {
+  list-style-position: inside;
+}
+
+/* Comments section background and padding */
+#comments {
+  background-color: #CCC;
+  padding: 12px;
+}
