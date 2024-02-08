@@ -25,14 +25,14 @@ h1, h2, h3, h4 {
 
 h1 {
   font-size: 4rem;
-  line-height: 2rem;
+  line-height: 4.5rem;
   font-weight: 100;
   margin: 20px 0;
 }
 
 h2 {
   font-size: 2.5rem;
-  line-height: 2.4rem;
+  line-height: 2.7rem;
   margin: 16px 0;
 }
 
